@@ -1,2 +1,2 @@
 # void40
-A fork of the VOID40 firmware form my handwired version.
+A fork of the VOID40 firmware for my handwired version.
