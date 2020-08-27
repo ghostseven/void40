@@ -1,6 +1,6 @@
 # VOID40
 
-![VOID40](https://imgur.com/a/j2zUKXo)
+![VOID40](https://i.imgur.com/UVOCfWy.jpg)
 
 A handwired 40% 12x4 ortholinear keyboard with a rotary encoder.
 
